@@ -3,7 +3,7 @@
 
 Ce dépôt rassemble les exercices pratiques centrés sur la maîtrise du cycle de vie des fichiers, la gestion des branches et l'atomicité des commits.
 
-## Objectifs 
+## Objectifs               
 
 L'objectif principal est de manipuler les **trois zones de Git** pour comprendre comment le code transite du disque dur vers l'historique versionné.
 
